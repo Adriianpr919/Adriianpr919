@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Tecnologías Web FRONT-END DEVELOPER.**
 
-- 🌱 Estoy aprendiendo Tecnologías Web FRONT-END DEVELOPER. **CURSO FRONTEND DEVELOPER - Universitaria Agustiniana.**
+- 🌱 Estoy aprendiendo **CURSO FRONTEND DEVELOPER - Universitaria Agustiniana.**
 
 - 💬 Pregúntame sobre **MEARN.**
 
@@ -17,7 +17,7 @@
 
 - 📫 Cómo contactarme: **apr.1991lino@gmail.com**
 
-<h3 align="left">Conectate conmigo:</h3>
+<h3 align="left">Conectate Conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/apweb.1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/apweb.1991/" height="30" width="40" /></a>
