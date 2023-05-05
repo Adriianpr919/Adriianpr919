@@ -19,9 +19,15 @@
 
 <h3 align="left">Conectate Conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/apweb.1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/apweb.1991/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/apweb.1991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apweb.1991/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lino-adri%c3%a1n-p%c3%a1ez-reyes-b928a0127/" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/apweb.1991/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/apweb.1991/" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/apweb.1991/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apweb.1991/" height="30" width="40" />
+</a>
 </p>
 
 ![javascript](https://user-images.githubusercontent.com/54821048/198104720-769d8d9b-9d62-43c7-94f1-f9a3644981cf.gif)
